@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+   {
+      "type": "Feature",
+      "properties": { "kind": "lift", "name": "Olympic Express High-Speed Quad Chair" },
+      "geometry": { "type": "LineString", "coordinates": [[3590, 1642], [3602, 3490]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "lift", "name": "Peak Quad Chair" },
+      "geometry": { "type": "LineString", "coordinates": [[2588, 2982], [3484, 3490]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "lift", "name": "Screaming Eagle High-Speed Quad Chair" },
+      "geometry": { "type": "LineString", "coordinates": [[1092, 1392], [2088, 2702]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "lift", "name": "Greenway Quad Chair" },
+      "geometry": { "type": "LineString", "coordinates": [[1970, 2762], [2544, 2934]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "lift", "name": "Magic Carpet" },
+      "geometry": { "type": "LineString", "coordinates": [[2644, 2796], [2648, 2948]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "lift", "name": "Short Cut Handle Tow" },
+      "geometry": { "type": "LineString", "coordinates": [[1770, 1706], [2260, 1988]] }
+    }
+  ]
+}
