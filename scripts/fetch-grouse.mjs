@@ -149,6 +149,8 @@ function parseTable($, tabId) {
   return out;
 }
 
+if (!(await shouldRunNow())) process.exit(0);
+
 const res = await fetch(URL, {
   headers: { "user-agent": "Mozilla/5.0", accept: "text/html" },
 });
