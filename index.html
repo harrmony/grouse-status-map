@@ -153,16 +153,11 @@
             ? "status.json"
             : "https://raw.githubusercontent.com/harrmony/grouse-status-map/data/status.json";
 
+
         const [overlays, curvesData, status] = await Promise.all([
-        fetch('overlays.geojson?ts=' + Date.now()).then(r => r.json()),
-        fetch('curves.json?ts=' + Date.now()).then(r => r.json()),
-        fetch(STATUS_URL + '?ts=' + Date.now()).then(r => r.json())
-    
-        // const [overlays, curvesData, status] = await Promise.all([
-        // fetch('overlays.geojson?ts=' + Date.now()).then(r => r.json()),
-        // fetch('curves.json?ts=' + Date.now()).then(r => r.json()),
-        // fetch('https://raw.githubusercontent.com/harrmony/grouse-status-map/data/status.json?ts=' + Date.now()).then(r => r.json())
-      
+          fetch('overlays.geojson?ts=' + Date.now()).then(r => r.json()),
+          fetch('curves.json?ts=' + Date.now()).then(r => r.json()),
+          fetch(STATUS_URL + '?ts=' + Date.now()).then(r => r.json())
         ]);
 
 
@@ -311,7 +306,7 @@
      onclick="trackClick('linkedin')">
     Harry Morris
     </a>. For official information, refer to
-    <a href="https://www.grousemountain.com" target="_blank" rel="noopener" onclick="trackClick('grous_official')">
+    <a href="https://www.grousemountain.com" target="_blank" rel="noopener" onclick="trackClick('grouse_official')">
       Grouse Mountain
     </a>
      Reports. 

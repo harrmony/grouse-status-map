@@ -2,7 +2,7 @@ name: Update Grouse status.json
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # start here
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: data
 
       - uses: actions/setup-node@v4
         with:
@@ -26,4 +28,4 @@ jobs:
           git config user.email "status-bot@users.noreply.github.com"
           git add status.json
           git commit -m "Update status.json" || exit 0
-          git push origin HEAD:data
+          git push origin data
