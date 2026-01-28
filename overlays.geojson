@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": { "kind": "lift", "name": "Greenway Quad Chair" },
-      "geometry": { "type": "LineString", "coordinates": [[1970, 2762], [2544, 2934]] }
+      "geometry": { "type": "LineString", "coordinates": [[1976, 2767], [2544, 2934]] }
     },
     {
       "type": "Feature",
