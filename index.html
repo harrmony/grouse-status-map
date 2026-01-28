@@ -129,12 +129,12 @@
 
 
     // FOR ADDING COORDINATES
-    //map.on('click', (e) => {
+    map.on('click', (e) => {
       // e.latlng is in image coordinates for CRS.Simple
-    // const x = e.latlng.lng;
-    // const y = e.latlng.lat;
-    // console.log(`Clicked: [${Math.round(x)}, ${Math.round(y)}]`);
-    //});
+     const x = e.latlng.lng;
+     const y = e.latlng.lat;
+     console.log(`Clicked: [${Math.round(x)}, ${Math.round(y)}]`);
+    });
 
     
     function normalizeStyle(status, kind) {
