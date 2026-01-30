@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-01-29T23:54:21.759Z",
+  "fetched_at": "2026-01-30T01:23:56.469Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "3:00 PM Report",
+  "report_time_text": "5:00 PM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "closed",
     "Peak Quad Chair": "open",
@@ -36,7 +36,7 @@
     "Inferno": "closed",
     "Outer Limits": "closed",
     "Devil's Advocate": "closed",
-    "Purgatory": "open",
+    "Purgatory": "closed",
     "Peak Glades": "closed",
     "Grinder Tracks": "closed",
     "Expo Glades": "closed",
