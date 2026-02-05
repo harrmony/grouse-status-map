@@ -1,31 +1,31 @@
 {
-  "fetched_at": "2026-02-05T12:50:56.607Z",
+  "fetched_at": "2026-02-05T14:01:42.685Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "9:00 PM Report",
+  "report_time_text": "6:00 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "closed",
-    "Peak Quad Chair": "closed",
+    "Peak Quad Chair": "open",
     "Screaming Eagle High-Speed Quad Chair": "closed",
-    "Greenway Quad Chair": "closed",
-    "Magic Carpet": "closed",
+    "Greenway Quad Chair": "open",
+    "Magic Carpet": "open",
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
     "Chalet Road": "closed",
-    "Paradise": "closed",
-    "Ski Wee": "closed",
+    "Paradise": "open",
+    "Ski Wee": "open",
     "The Cut": "closed",
     "Blue Face": "closed",
     "Centennial": "closed",
     "Deliverance": "closed",
     "Dogleg": "closed",
     "Expo": "closed",
-    "Heaven's Sake": "closed",
+    "Heaven's Sake": "open",
     "Lower Buckhorn": "closed",
-    "Lower Peak": "closed",
+    "Lower Peak": "open",
     "Lower Side Cut": "closed",
     "Paper Trail": "closed",
-    "Peak": "closed",
+    "Peak": "open",
     "Side Cut": "closed",
     "Skyline": "closed",
     "Tyee Chute": "closed",
@@ -36,7 +36,7 @@
     "Inferno": "closed",
     "Outer Limits": "closed",
     "Devil's Advocate": "closed",
-    "Purgatory": "closed",
+    "Purgatory": "open",
     "Peak Glades": "closed",
     "Grinder Tracks": "closed",
     "Expo Glades": "closed",
@@ -44,6 +44,6 @@
     "Chimney": "closed",
     "Upper Blazes": "closed",
     "Mountain Highway": "closed",
-    "No Man's Land": "closed"
+    "No Man's Land": "open"
   }
 }
