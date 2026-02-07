@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-07T21:59:38.739Z",
+  "fetched_at": "2026-02-07T22:32:14.359Z",
   "source": "https://www.grousemountain.com/current_conditions",
   "report_time_text": "12:30 PM Report",
   "lifts": {
@@ -36,7 +36,7 @@
     "Inferno": "closed",
     "Outer Limits": "closed",
     "Devil's Advocate": "closed",
-    "Purgatory": "open",
+    "Purgatory": "closed",
     "Peak Glades": "closed",
     "Grinder Tracks": "closed",
     "Expo Glades": "closed",
