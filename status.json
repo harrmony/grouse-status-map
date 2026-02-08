@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-02-08T19:01:35.588Z",
+  "fetched_at": "2026-02-08T19:34:49.666Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "10:00 AM Report",
+  "report_time_text": "11:00 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "closed",
     "Peak Quad Chair": "open",
@@ -22,10 +22,10 @@
     "Expo": "closed",
     "Heaven's Sake": "open",
     "Lower Buckhorn": "closed",
-    "Lower Peak": "closed",
+    "Lower Peak": "unknown",
     "Lower Side Cut": "closed",
     "Paper Trail": "closed",
-    "Peak": "closed",
+    "Peak": "unknown",
     "Side Cut": "closed",
     "Skyline": "closed",
     "Tyee Chute": "closed",
