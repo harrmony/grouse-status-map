@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-02-08T17:22:22.635Z",
+  "fetched_at": "2026-02-08T17:51:21.622Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "8:30 AM Report",
+  "report_time_text": "9:30 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "closed",
     "Peak Quad Chair": "open",
@@ -44,6 +44,6 @@
     "Chimney": "closed",
     "Upper Blazes": "closed",
     "Mountain Highway": "closed",
-    "No Man's Land": "unknown"
+    "No Man's Land": "closed"
   }
 }
