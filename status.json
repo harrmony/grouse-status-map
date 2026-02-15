@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-02-15T15:53:37.291Z",
+  "fetched_at": "2026-02-15T16:21:23.623Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "7:30 AM Report",
+  "report_time_text": "8:00 AM Report",
   "lifts": {
-    "Olympic Express High-Speed Quad Chair": "closed",
+    "Olympic Express High-Speed Quad Chair": "open",
     "Peak Quad Chair": "open",
     "Screaming Eagle High-Speed Quad Chair": "closed",
     "Greenway Quad Chair": "open",
@@ -19,7 +19,7 @@
     "Centennial": "closed",
     "Deliverance": "closed",
     "Dogleg": "closed",
-    "Expo": "closed",
+    "Expo": "open",
     "Heaven's Sake": "closed",
     "Lower Buckhorn": "closed",
     "Lower Peak": "open",
