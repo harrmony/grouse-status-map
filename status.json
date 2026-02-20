@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-20T17:09:20.735Z",
+  "fetched_at": "2026-02-20T17:54:28.064Z",
   "source": "https://www.grousemountain.com/current_conditions",
   "report_time_text": "9:00 AM Report",
   "lifts": {
@@ -16,7 +16,7 @@
     "Ski Wee": "open",
     "The Cut": "open",
     "Blue Face": "closed",
-    "Centennial": "closed",
+    "Centennial": "open",
     "Deliverance": "open",
     "Dogleg": "closed",
     "Expo": "open",
@@ -28,9 +28,9 @@
     "Peak": "open",
     "Side Cut": "closed",
     "Skyline": "closed",
-    "Tyee Chute": "closed",
+    "Tyee Chute": "open",
     "Upper Buckhorn": "closed",
-    "Blazes": "closed",
+    "Blazes": "open",
     "Coffin": "closed",
     "Hades": "closed",
     "Inferno": "closed",
@@ -40,9 +40,9 @@
     "Peak Glades": "closed",
     "Grinder Tracks": "closed",
     "Expo Glades": "closed",
-    "Coola's Corner": "closed",
+    "Coola's Corner": "open",
     "Chimney": "closed",
-    "Upper Blazes": "closed",
+    "Upper Blazes": "open",
     "Mountain Highway": "closed",
     "No Man's Land": "open"
   }
