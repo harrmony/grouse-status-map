@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-02-21T18:59:05.571Z",
+  "fetched_at": "2026-02-21T19:28:36.235Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "10:00 AM Report",
+  "report_time_text": "11:00 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "open",
     "Peak Quad Chair": "open",
@@ -24,13 +24,13 @@
     "Lower Buckhorn": "closed",
     "Lower Peak": "open",
     "Lower Side Cut": "closed",
-    "Paper Trail": "closed",
+    "Paper Trail": "unknown",
     "Peak": "open",
     "Side Cut": "closed",
     "Skyline": "closed",
     "Tyee Chute": "open",
     "Upper Buckhorn": "closed",
-    "Blazes": "closed",
+    "Blazes": "open",
     "Coffin": "closed",
     "Hades": "closed",
     "Inferno": "closed",
@@ -42,7 +42,7 @@
     "Expo Glades": "closed",
     "Coola's Corner": "open",
     "Chimney": "closed",
-    "Upper Blazes": "closed",
+    "Upper Blazes": "open",
     "Mountain Highway": "open",
     "No Man's Land": "open"
   }
