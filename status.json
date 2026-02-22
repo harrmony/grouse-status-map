@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-02-21T23:52:26.917Z",
+  "fetched_at": "2026-02-22T01:29:10.562Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "12:00 PM Report",
+  "report_time_text": "5:00 PM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "open",
     "Peak Quad Chair": "closed",
@@ -30,7 +30,7 @@
     "Skyline": "closed",
     "Tyee Chute": "open",
     "Upper Buckhorn": "closed",
-    "Blazes": "open",
+    "Blazes": "closed",
     "Coffin": "closed",
     "Hades": "closed",
     "Inferno": "closed",
