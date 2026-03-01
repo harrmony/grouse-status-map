@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-01T16:26:19.157Z",
+  "fetched_at": "2026-03-01T16:50:28.660Z",
   "source": "https://www.grousemountain.com/current_conditions",
   "report_time_text": "7:40 AM Report",
   "lifts": {
@@ -7,7 +7,7 @@
     "Peak Quad Chair": "closed",
     "Screaming Eagle High-Speed Quad Chair": "open",
     "Greenway Quad Chair": "open",
-    "Magic Carpet": "closed",
+    "Magic Carpet": "open",
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
