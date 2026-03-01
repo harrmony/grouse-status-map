@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-01T14:44:11.677Z",
+  "fetched_at": "2026-03-01T14:57:51.956Z",
   "source": "https://www.grousemountain.com/current_conditions",
   "report_time_text": "6:00 AM Report",
   "lifts": {
@@ -8,7 +8,7 @@
     "Screaming Eagle High-Speed Quad Chair": "open",
     "Greenway Quad Chair": "open",
     "Magic Carpet": "closed",
-    "Short Cut Handle Tow": "open"
+    "Short Cut Handle Tow": "closed"
   },
   "trails": {
     "Chalet Road": "open",
