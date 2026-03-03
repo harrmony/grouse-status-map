@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-03T19:08:41.472Z",
+  "fetched_at": "2026-03-03T19:48:33.676Z",
   "source": "https://www.grousemountain.com/current_conditions",
   "report_time_text": "11:00 AM Report",
   "lifts": {
@@ -11,7 +11,7 @@
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
-    "Chalet Road": "open",
+    "Chalet Road": "unknown",
     "Paradise": "open",
     "Ski Wee": "open",
     "The Cut": "closed",
@@ -19,7 +19,7 @@
     "Centennial": "closed",
     "Deliverance": "closed",
     "Dogleg": "closed",
-    "Expo": "open",
+    "Expo": "unknown",
     "Heaven's Sake": "open",
     "Lower Buckhorn": "closed",
     "Lower Peak": "open",
@@ -28,7 +28,7 @@
     "Peak": "open",
     "Side Cut": "closed",
     "Skyline": "closed",
-    "Tyee Chute": "open",
+    "Tyee Chute": "unknown",
     "Upper Buckhorn": "closed",
     "Blazes": "closed",
     "Coffin": "closed",
@@ -42,7 +42,7 @@
     "Expo Glades": "closed",
     "Coola's Corner": "closed",
     "Chimney": "closed",
-    "Upper Blazes": "open",
+    "Upper Blazes": "unknown",
     "Mountain Highway": "closed",
     "No Man's Land": "open"
   }
