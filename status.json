@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-03-03T20:17:23.697Z",
+  "fetched_at": "2026-03-03T20:49:13.021Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "12:00 PM Report",
+  "report_time_text": "12:20 PM Report",
   "lifts": {
-    "Olympic Express High-Speed Quad Chair": "unknown",
+    "Olympic Express High-Speed Quad Chair": "closed",
     "Peak Quad Chair": "open",
     "Screaming Eagle High-Speed Quad Chair": "closed",
     "Greenway Quad Chair": "open",
@@ -11,7 +11,7 @@
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
-    "Chalet Road": "unknown",
+    "Chalet Road": "closed",
     "Paradise": "open",
     "Ski Wee": "open",
     "The Cut": "closed",
@@ -19,7 +19,7 @@
     "Centennial": "closed",
     "Deliverance": "closed",
     "Dogleg": "closed",
-    "Expo": "unknown",
+    "Expo": "closed",
     "Heaven's Sake": "open",
     "Lower Buckhorn": "closed",
     "Lower Peak": "open",
@@ -28,7 +28,7 @@
     "Peak": "open",
     "Side Cut": "closed",
     "Skyline": "closed",
-    "Tyee Chute": "unknown",
+    "Tyee Chute": "closed",
     "Upper Buckhorn": "closed",
     "Blazes": "closed",
     "Coffin": "closed",
@@ -42,7 +42,7 @@
     "Expo Glades": "closed",
     "Coola's Corner": "closed",
     "Chimney": "closed",
-    "Upper Blazes": "unknown",
+    "Upper Blazes": "closed",
     "Mountain Highway": "closed",
     "No Man's Land": "open"
   }
