@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-03-03T16:41:38.991Z",
+  "fetched_at": "2026-03-03T17:30:14.434Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "7:30 AM Report",
+  "report_time_text": "9:20 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "open",
     "Peak Quad Chair": "closed",
@@ -14,9 +14,9 @@
     "Chalet Road": "open",
     "Paradise": "open",
     "Ski Wee": "open",
-    "The Cut": "open",
+    "The Cut": "closed",
     "Blue Face": "closed",
-    "Centennial": "open",
+    "Centennial": "closed",
     "Deliverance": "closed",
     "Dogleg": "closed",
     "Expo": "open",
@@ -40,9 +40,9 @@
     "Peak Glades": "closed",
     "Grinder Tracks": "closed",
     "Expo Glades": "closed",
-    "Coola's Corner": "open",
+    "Coola's Corner": "closed",
     "Chimney": "closed",
-    "Upper Blazes": "closed",
+    "Upper Blazes": "open",
     "Mountain Highway": "closed",
     "No Man's Land": "open"
   }
