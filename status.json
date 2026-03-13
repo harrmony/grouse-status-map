@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-03-13T18:32:40.640Z",
+  "fetched_at": "2026-03-13T19:19:03.579Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "9:30 AM Report",
+  "report_time_text": "11:00 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "open",
     "Peak Quad Chair": "closed",
@@ -32,7 +32,7 @@
     "Upper Buckhorn": "closed",
     "Blazes": "open",
     "Coffin": "closed",
-    "Hades": "closed",
+    "Hades": "open",
     "Inferno": "closed",
     "Outer Limits": "closed",
     "Devil's Advocate": "closed",
