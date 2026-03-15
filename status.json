@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-03-15T00:01:42.404Z",
+  "fetched_at": "2026-03-15T03:28:30.776Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "5:00 PM Report",
+  "report_time_text": "8:00 PM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "open",
     "Peak Quad Chair": "closed",
     "Screaming Eagle High-Speed Quad Chair": "open",
     "Greenway Quad Chair": "open",
-    "Magic Carpet": "open",
+    "Magic Carpet": "closed",
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
@@ -24,26 +24,26 @@
     "Lower Buckhorn": "closed",
     "Lower Peak": "open",
     "Lower Side Cut": "closed",
-    "Paper Trail": "open",
+    "Paper Trail": "closed",
     "Peak": "open",
     "Side Cut": "closed",
     "Skyline": "closed",
     "Tyee Chute": "open",
     "Upper Buckhorn": "closed",
-    "Blazes": "open",
+    "Blazes": "closed",
     "Coffin": "closed",
     "Hades": "closed",
     "Inferno": "closed",
     "Outer Limits": "closed",
     "Devil's Advocate": "closed",
-    "Purgatory": "open",
+    "Purgatory": "closed",
     "Peak Glades": "closed",
     "Grinder Tracks": "closed",
     "Expo Glades": "closed",
     "Coola's Corner": "open",
     "Chimney": "closed",
     "Upper Blazes": "closed",
-    "Mountain Highway": "open",
+    "Mountain Highway": "closed",
     "No Man's Land": "open"
   }
 }
