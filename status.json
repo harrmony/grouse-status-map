@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-21T16:38:14.837Z",
+  "fetched_at": "2026-03-21T16:58:58.634Z",
   "source": "https://www.grousemountain.com/current_conditions",
   "report_time_text": "9:30 AM Report",
   "lifts": {
@@ -11,7 +11,7 @@
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
-    "Chalet Road": "open",
+    "Chalet Road": "unknown",
     "Paradise": "open",
     "Ski Wee": "open",
     "The Cut": "open",
