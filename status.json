@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-04-10T13:58:37.940Z",
+  "fetched_at": "2026-04-10T14:51:55.666Z",
   "source": "https://www.grousemountain.com/current_conditions",
-  "report_time_text": "6:00 AM Report",
+  "report_time_text": "7:30 AM Report",
   "lifts": {
     "Olympic Express High-Speed Quad Chair": "closed",
     "Peak Quad Chair": "open",
-    "Screaming Eagle High-Speed Quad Chair": "open",
+    "Screaming Eagle High-Speed Quad Chair": "closed",
     "Greenway Quad Chair": "open",
     "Magic Carpet": "closed",
     "Short Cut Handle Tow": "closed"
   },
   "trails": {
-    "Chalet Road": "open",
+    "Chalet Road": "closed",
     "Paradise": "open",
     "Ski Wee": "open",
-    "The Cut": "open",
+    "The Cut": "closed",
     "Blue Face": "closed",
     "Centennial": "closed",
     "Deliverance": "closed",
